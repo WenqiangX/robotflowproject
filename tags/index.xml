@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | RobotFlow</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wenqiangx.github.io/robotflowproject/tags/</link>
+      <atom:link href="https://wenqiangx.github.io/robotflowproject/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
+      <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://wenqiangx.github.io/robotflowproject/tags/</link>
     </image>
     
   </channel>

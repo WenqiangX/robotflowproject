@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cewu Lu | RobotFlow</title>
-    <link>/author/cewu-lu/</link>
-      <atom:link href="/author/cewu-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wenqiangx.github.io/robotflowproject/author/cewu-lu/</link>
+      <atom:link href="https://wenqiangx.github.io/robotflowproject/author/cewu-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Cewu Lu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright>
     <image>
-      <url>/author/cewu-lu/avatar_huee52292befd7444f5fc829b5d0499eb1_51069_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://wenqiangx.github.io/robotflowproject/author/cewu-lu/avatar_huee52292befd7444f5fc829b5d0499eb1_51069_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cewu Lu</title>
-      <link>/author/cewu-lu/</link>
+      <link>https://wenqiangx.github.io/robotflowproject/author/cewu-lu/</link>
     </image>
     
   </channel>
