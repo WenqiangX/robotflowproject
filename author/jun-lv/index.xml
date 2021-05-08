@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Lv | RobotFlow</title>
+    <link>https://wenqiangx.github.io/robotflowproject/author/jun-lv/</link>
+      <atom:link href="https://wenqiangx.github.io/robotflowproject/author/jun-lv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Lv</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright>
+    <image>
+      <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
+      <title>Jun Lv</title>
+      <link>https://wenqiangx.github.io/robotflowproject/author/jun-lv/</link>
+    </image>
+    
+  </channel>
+</rss>
+t/author/jun-lv/</link>
+    </image>
+    
+    <item>
+      <title>HandTailor: Towards High-Precision Monocular 3D Hand Recovery</title>
+      <link>https://wenqiangx.github.io/robotflowproject/publication/handtailor/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://wenqiangx.github.io/robotflowproject/publication/handtailor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

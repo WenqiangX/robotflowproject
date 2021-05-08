@@ -5,26 +5,12 @@
     <link>https://wenqiangx.github.io/robotflowproject/author/ruolin-ye/</link>
       <atom:link href="https://wenqiangx.github.io/robotflowproject/author/ruolin-ye/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruolin Ye</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright>
     <image>
       <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
       <title>Ruolin Ye</title>
       <link>https://wenqiangx.github.io/robotflowproject/author/ruolin-ye/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://wenqiangx.github.io/robotflowproject/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://wenqiangx.github.io/robotflowproject/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
