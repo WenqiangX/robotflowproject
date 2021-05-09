@@ -5,7 +5,7 @@
     <link>https://wenqiangx.github.io/robotflowproject/tag/simulation/</link>
       <atom:link href="https://wenqiangx.github.io/robotflowproject/tag/simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>simulation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
       <title>simulation</title>
@@ -15,27 +15,63 @@
     <item>
       <title>RFBulletT</title>
       <link>https://wenqiangx.github.io/robotflowproject/project/rfbullett/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       <guid>https://wenqiangx.github.io/robotflowproject/project/rfbullett/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;#&#34;&gt;RFBulletT&lt;/a&gt;, developed by &lt;a href=&#34;#&#34;&gt;Tutian Tang&lt;/a&gt;, is a project which aims to provide an easy-to-use interface between Pybullet and other RobotFlow modules.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;#&#34;&gt;RFBulletT&lt;/a&gt;, developed by &lt;a href=&#34;#&#34;&gt;Tutian Tang&lt;/a&gt;, is a project which aims to provide an easy-to-use interface between Pybullet and other RobotFlow modules. 
+As pybullet is already a highly encapsulated and easy-to-use simulator, it makes our work much easier :)&lt;/p&gt;
+&lt;p&gt;Upon basic functionalities provided by pybullet, the RFBulletT provides more.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Create Environment Via Configuration File or Simple Parameter Tuning.&lt;/li&gt;
+&lt;li&gt;Compatible with multiple Robot Arms, Hands, Sensors (including tactile).&lt;/li&gt;
+&lt;li&gt;Domain Randomization.&lt;/li&gt;
+&lt;li&gt;Gym-like interface for RL algorithms, &lt;a href=&#34;https://github.com/DLR-RM/stable-baselines3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stable baseline3&lt;/a&gt; is specifically supported.&lt;/li&gt;
+&lt;li&gt;Integrated Motion Planning with &lt;a href=&#34;https://github.com/WenqiangX/rfplanner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFPlanner&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
     <item>
       <title>RFMuJoCo</title>
       <link>https://wenqiangx.github.io/robotflowproject/project/rfmujoco/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       <guid>https://wenqiangx.github.io/robotflowproject/project/rfmujoco/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;#&#34;&gt;RFMuJoCo&lt;/a&gt;, developed by &lt;a href=&#34;#&#34;&gt;Wenqiang Xu&lt;/a&gt;, is a project which aims to provide an easy-to-use interface between MuJoCo and other RobotFlow modules.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/WenqiangX/rfmujoco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFMuJoCo&lt;/a&gt;, developed by &lt;a href=&#34;https://github.com/WenqiangX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wenqiang Xu&lt;/a&gt;, is a project which aims to provide an easy-to-use interface between MuJoCo and other RobotFlow modules.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Create Environment Via Configuration File or Simple Parameter Tuning.&lt;/li&gt;
+&lt;li&gt;Compatible with multiple Robot Arms, Hands, Sensors (currently not including tactile).&lt;/li&gt;
+&lt;li&gt;Domain Randomization.&lt;/li&gt;
+&lt;li&gt;Gym-like interface for RL algorithms, &lt;a href=&#34;https://github.com/DLR-RM/stable-baselines3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stable baseline3&lt;/a&gt; is specifically supported.&lt;/li&gt;
+&lt;li&gt;Integrated Motion Planning with &lt;a href=&#34;https://github.com/WenqiangX/rfplanner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFPlanner&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;comments&#34;&gt;Comments&lt;/h2&gt;
+&lt;p&gt;Since the MuJoCo has a really unfriendly registration machanism. The support of MuJoCo is not very active, unless we have to use MuJoCo.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>RFUniverse</title>
+      <title>rFUniverse</title>
       <link>https://wenqiangx.github.io/robotflowproject/project/rfuniverse/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       <guid>https://wenqiangx.github.io/robotflowproject/project/rfuniverse/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/WenqiangX/rfuniverse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rFUniverse&lt;/a&gt; is a multi-modal, physics-based, object-centric, manipulation-oriented simulation environment developed upon Unity. The reason why the naming convention is slightly different from other rf- ecosystem software is because the name of the major developer of rFUniverse project happens to be FU.&lt;/p&gt;
+&lt;p&gt;Unity itself is a multi-purposed software, which is known for developing multiple complex games. We believe in a rather long run, it can support our need. rFUniverse is developed on ML-Agents but with significant extentions. After all, we do not aims to merely use it for RL training.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Create Environment Via Configuration File or Simple Parameter Tuning.&lt;/li&gt;
+&lt;li&gt;Compatible with multiple Robot Arms, Hands, Sensors (including tactile).&lt;/li&gt;
+&lt;li&gt;Domain Randomization.&lt;/li&gt;
+&lt;li&gt;High quality rendering supported.&lt;/li&gt;
+&lt;li&gt;Gym-like interface for RL algorithms, &lt;a href=&#34;https://github.com/DLR-RM/stable-baselines3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stable baseline3&lt;/a&gt; is specifically supported.&lt;/li&gt;
+&lt;li&gt;Integrated Motion Planning with &lt;a href=&#34;https://github.com/WenqiangX/rfplanner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFPlanner&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Integrated with &lt;a href=&#34;https://github.com/taichi-dev/taichi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taichi&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Multiple 3D-related tools.&lt;/li&gt;
+&lt;li&gt;Realsense Camera supported.&lt;/li&gt;
+&lt;li&gt;VR/AR supported.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For more details, please refer to the &lt;a href=&#34;#&#34;&gt;paper&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/WenqiangX/rfuniverse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
