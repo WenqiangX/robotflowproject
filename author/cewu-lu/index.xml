@@ -5,36 +5,12 @@
     <link>https://wenqiangx.github.io/robotflowproject/author/cewu-lu/</link>
       <atom:link href="https://wenqiangx.github.io/robotflowproject/author/cewu-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Cewu Lu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright>
     <image>
-      <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
+      <url>https://wenqiangx.github.io/robotflowproject/author/cewu-lu/avatar_hu1e84fb6cf78b862dd6cae3ba64953b90_51068_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cewu Lu</title>
       <link>https://wenqiangx.github.io/robotflowproject/author/cewu-lu/</link>
     </image>
-    
-    <item>
-      <title>H2O: A Benchmark for Visual Human-human Object Handover Analysis</title>
-      <link>https://wenqiangx.github.io/robotflowproject/publication/h2o/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://wenqiangx.github.io/robotflowproject/publication/h2o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HandTailor: Towards High-Precision Monocular 3D Hand Recovery</title>
-      <link>https://wenqiangx.github.io/robotflowproject/publication/handtailor/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://wenqiangx.github.io/robotflowproject/publication/handtailor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CPF: Learning a Contact Potential Field to Model the Hand-object Interaction</title>
-      <link>https://wenqiangx.github.io/robotflowproject/publication/cpf/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://wenqiangx.github.io/robotflowproject/publication/cpf/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
