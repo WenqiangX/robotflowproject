@@ -5,12 +5,21 @@
     <link>https://wenqiangx.github.io/robotflowproject/project/</link>
       <atom:link href="https://wenqiangx.github.io/robotflowproject/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
       <link>https://wenqiangx.github.io/robotflowproject/project/</link>
     </image>
+    
+    <item>
+      <title>PyMove</title>
+      <link>https://wenqiangx.github.io/robotflowproject/project/pymove/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://wenqiangx.github.io/robotflowproject/project/pymove/</guid>
+      <description>&lt;p&gt;Comming Soon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>N-D Pose Annotator</title>
@@ -121,17 +130,17 @@ As pybullet is already a highly encapsulated and easy-to-use simulator, it makes
     </item>
     
     <item>
-      <title>Zen Robot</title>
-      <link>https://wenqiangx.github.io/robotflowproject/project/zen_robot/</link>
+      <title>Tobor Robot</title>
+      <link>https://wenqiangx.github.io/robotflowproject/project/tobor_robot/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://wenqiangx.github.io/robotflowproject/project/zen_robot/</guid>
-      <description>&lt;p&gt;Zen Robot is an advanced dual-arm mobile manipulator with over 54 DoFs (The DoF is really just a matter of how you combine the components).&lt;/p&gt;
+      <guid>https://wenqiangx.github.io/robotflowproject/project/tobor_robot/</guid>
+      <description>&lt;p&gt;Tobor Robot is an advanced dual-arm mobile manipulator with over 54 DoFs (The DoF is really just a matter of how you combine the components).&lt;/p&gt;
 &lt;h2 id=&#34;components--features&#34;&gt;Components &amp;amp; Features&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Head&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;The head of Zen Robot consists of an RGB-D camera. The camera on the head is mainly used for middle-range navigation. We have tested the &lt;strong&gt;RealSense D435&lt;/strong&gt; and &lt;strong&gt;Azure Kinect&lt;/strong&gt;. It is safe to assume other similar choice is ok.&lt;/li&gt;
+&lt;li&gt;The head of Tobor Robot consists of an RGB-D camera. The camera on the head is mainly used for middle-range navigation. We have tested the &lt;strong&gt;RealSense D435&lt;/strong&gt; and &lt;strong&gt;Azure Kinect&lt;/strong&gt;. It is safe to assume other similar choice is ok.&lt;/li&gt;
 &lt;li&gt;We plan to try some other sensors to head such as thermal sensors.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -166,7 +175,7 @@ As pybullet is already a highly encapsulated and easy-to-use simulator, it makes
 &lt;li&gt;
 &lt;p&gt;Hand&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;We have tested multiple grippers/hands on Zen Robot, namely &lt;a href=&#34;https://robotiq.com/products/2f85-140-adaptive-robot-gripper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotiq 85&lt;/a&gt;, &lt;a href=&#34;http://en.dh-robotics.com/ag-95/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AG 95&lt;/a&gt;, &lt;a href=&#34;http://en.dh-robotics.com/dh-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DH-3&lt;/a&gt;, &lt;a href=&#34;http://www.jodell.cn/product/89/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jodell JQ3-5&lt;/a&gt;, &lt;a href=&#34;http://wiki.wonikrobotics.com/AllegroHandWiki/index.php/Allegro_Hand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allegro&lt;/a&gt;, DLR-HIT 2020 version.&lt;/li&gt;
+&lt;li&gt;We have tested multiple grippers/hands on Tobor Robot, namely &lt;a href=&#34;https://robotiq.com/products/2f85-140-adaptive-robot-gripper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotiq 85&lt;/a&gt;, &lt;a href=&#34;http://en.dh-robotics.com/ag-95/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AG 95&lt;/a&gt;, &lt;a href=&#34;http://en.dh-robotics.com/dh-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DH-3&lt;/a&gt;, &lt;a href=&#34;http://www.jodell.cn/product/89/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jodell JQ3-5&lt;/a&gt;, &lt;a href=&#34;http://wiki.wonikrobotics.com/AllegroHandWiki/index.php/Allegro_Hand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allegro&lt;/a&gt;, DLR-HIT 2020 version.&lt;/li&gt;
 &lt;li&gt;tactile: &lt;a href=&#34;https://wenqiangx.github.io/robotflowproject/project/rfdigit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFDigit&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -177,7 +186,7 @@ As pybullet is already a highly encapsulated and easy-to-use simulator, it makes
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;controllers-for-zen-robot&#34;&gt;Controllers For Zen Robot&lt;/h2&gt;
+&lt;h2 id=&#34;controllers-for-tobor-robot&#34;&gt;Controllers For Tobor Robot&lt;/h2&gt;
 &lt;p&gt;The interface of real controllers and fake controllers (in simulation) are all natively implemented in &lt;a href=&#34;https://github.com/WenqiangX/rfcontroller&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFController&lt;/a&gt;.
 You may refer to the corresponding document to learn how to control it.&lt;/p&gt;
 </description>
