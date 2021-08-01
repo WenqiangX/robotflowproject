@@ -32,25 +32,6 @@ As pybullet is already a highly encapsulated and easy-to-use simulator, it makes
     </item>
     
     <item>
-      <title>RFMuJoCo</title>
-      <link>https://wenqiangx.github.io/robotflowproject/project/rfmujoco/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://wenqiangx.github.io/robotflowproject/project/rfmujoco/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/WenqiangX/rfmujoco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFMuJoCo&lt;/a&gt;, developed by &lt;a href=&#34;https://github.com/WenqiangX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wenqiang Xu&lt;/a&gt;, is a project which aims to provide an easy-to-use interface between MuJoCo and other RobotFlow modules.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Create Environment Via Configuration File or Simple Parameter Tuning.&lt;/li&gt;
-&lt;li&gt;Compatible with multiple Robot Arms, Hands, Sensors (currently not including tactile).&lt;/li&gt;
-&lt;li&gt;Domain Randomization.&lt;/li&gt;
-&lt;li&gt;Gym-like interface for RL algorithms, &lt;a href=&#34;https://github.com/DLR-RM/stable-baselines3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stable baseline3&lt;/a&gt; is specifically supported.&lt;/li&gt;
-&lt;li&gt;Integrated Motion Planning with &lt;a href=&#34;https://github.com/WenqiangX/rfplanner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFPlanner&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;comments&#34;&gt;Comments&lt;/h2&gt;
-&lt;p&gt;Since the MuJoCo has a really unfriendly registration machanism. The support of MuJoCo is not very active, unless we have to use MuJoCo.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>rFUniverse</title>
       <link>https://wenqiangx.github.io/robotflowproject/project/rfuniverse/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
