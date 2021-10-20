@@ -13,17 +13,6 @@
     </image>
     
     <item>
-      <title>RFDigit Tactile Sensor</title>
-      <link>https://wenqiangx.github.io/robotflowproject/project/rfdigit/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://wenqiangx.github.io/robotflowproject/project/rfdigit/</guid>
-      <description>&lt;p&gt;RFDigit is a modified version of &lt;a href=&#34;https://digit.ml/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digit&lt;/a&gt;, which is an open-source, low-cost, high-resolution tactile sensor designed for robotic in-hand manipulation. We thank facebook research for open-sourcing the design files which makes the study of tactile modality much easier.&lt;/p&gt;
-&lt;p&gt;In our version, we substitute the chips in original Digit to the Chinese version which are less affected by the COVID-19 on the production delivery. Thus we also re-write the program to the chips accordingly. Besides, we manage to make the sensor thinner by altering the camera choice, without compromising the resolution of the sensor. To inherit the open-source spirit, we also make the manufacturing files of our modified version public available.&lt;/p&gt;
-&lt;p&gt;The simulation of RFDigit has also been integrated into &lt;a href=&#34;https://github.com/WenqiangX/rfbullett&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFBulletT&lt;/a&gt; and &lt;a href=&#34;https://github.com/WenqiangX/rfuniverse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFUniverse&lt;/a&gt;. Please refer to the document of the simulators for further details.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Tobor Robot</title>
       <link>https://wenqiangx.github.io/robotflowproject/project/tobor_robot/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
@@ -81,7 +70,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;controllers-for-tobor-robot&#34;&gt;Controllers For Tobor Robot&lt;/h2&gt;
-&lt;p&gt;The interface of real controllers and fake controllers (in simulation) are all natively implemented in &lt;a href=&#34;https://github.com/WenqiangX/rfcontroller&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFController&lt;/a&gt;.
+&lt;p&gt;The interface of real controllers and fake controllers (in simulation) are all natively implemented in &lt;a href=&#34;https://github.com/mvig-robotflow/rfcontroller&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFController&lt;/a&gt;.
 You may refer to the corresponding document to learn how to control it.&lt;/p&gt;
 </description>
     </item>

@@ -5,12 +5,20 @@
     <link>https://wenqiangx.github.io/robotflowproject/author/haoyuan-fu/</link>
       <atom:link href="https://wenqiangx.github.io/robotflowproject/author/haoyuan-fu/index.xml" rel="self" type="application/rss+xml" />
     <description>Haoyuan Fu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
       <title>Haoyuan Fu</title>
       <link>https://wenqiangx.github.io/robotflowproject/author/haoyuan-fu/</link>
     </image>
+    
+    <item>
+      <title>OMAD: Object Model with Articulated Deformations for Pose Estimation and Retrieval</title>
+      <link>https://wenqiangx.github.io/robotflowproject/publication/omad/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://wenqiangx.github.io/robotflowproject/publication/omad/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

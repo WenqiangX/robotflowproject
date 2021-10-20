@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vision | RobotFlow</title>
-    <link>https://wenqiangx.github.io/robotflowproject/tag/vision/</link>
-      <atom:link href="https://wenqiangx.github.io/robotflowproject/tag/vision/index.xml" rel="self" type="application/rss+xml" />
-    <description>vision</description>
+    <title>perception | RobotFlow</title>
+    <link>https://wenqiangx.github.io/robotflowproject/tag/perception/</link>
+      <atom:link href="https://wenqiangx.github.io/robotflowproject/tag/perception/index.xml" rel="self" type="application/rss+xml" />
+    <description>perception</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Robot AI Team @ MVIG, SJTU</copyright><lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wenqiangx.github.io/robotflowproject/media/logo_hu46a4a8f8595a95f38f6e09503c343ee2_6156_300x300_fit_lanczos_2.png</url>
-      <title>vision</title>
-      <link>https://wenqiangx.github.io/robotflowproject/tag/vision/</link>
+      <title>perception</title>
+      <link>https://wenqiangx.github.io/robotflowproject/tag/perception/</link>
     </image>
     
     <item>
@@ -26,7 +26,10 @@
       <link>https://wenqiangx.github.io/robotflowproject/project/rfvision/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       <guid>https://wenqiangx.github.io/robotflowproject/project/rfvision/</guid>
-      <description></description>
+      <description>&lt;p&gt;RFVision is an open-source toolbox for robot vision. It is a part of the RobotFlow project.&lt;/p&gt;
+&lt;p&gt;The project takes a lot of design ideas from the great project mmcv, MMDetection, MMDetection3D, but with significant modifications to adapt to robot vision tasks. For pure 2D or 3D vision tasks, we recommend to use MMDetection/3D as they support more baselines.&lt;/p&gt;
+&lt;p&gt;But for robot vision where real-time visual servo, multi-modal perception are of more interest, RFVision is the project for you.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
